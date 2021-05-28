@@ -11,6 +11,6 @@ def div(x, y):
 		return "error" # on bug4566 
 	else :
 		return x / y
-
+# Square function
 def square(x):
 	pass
