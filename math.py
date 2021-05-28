@@ -13,4 +13,4 @@ def div(x, y):
 		return x / y
 # Square function
 def square(x):
-	pass
+	return x * x
